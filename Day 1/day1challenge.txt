@@ -1,0 +1,3 @@
+Day 1 Challenge Done
+I have created a new repository for 100 days of coding challenge
+Learned how to create a repository and make the changes
